@@ -68,8 +68,7 @@
       ],
       "icon": "build/icon.ico",
       "requestedExecutionLevel": "asInvoker",
-      "signAndEditExecutable": false,
-      "publisherName": "Spectreverse Team"
+      "signAndEditExecutable": false
     },
     "nsis": {
       "oneClick": false,
